@@ -1,6 +1,6 @@
 # Contribution Guide
 
-Hey there! We are really excited that you are interested in contributing. This is a general contribution guide for most of [Anthony's projects](https://antfu.me/projects). Before submitting your contribution, please make sure to take a moment and read through the following guide:
+Hey there! We are really excited that you are interested in contributing.Before submitting your contribution, please make sure to take a moment and read through the following guide:
 
 ## 👨‍💻 Repository Setup
 
